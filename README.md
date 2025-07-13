@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Dockerized](https://img.shields.io/badge/docker-ready-blue)
+![Redis](https://img.shields.io/badge/queue-redis-yellow)
+
 # TaskSphere Distributed Job Queue Engine
 
 ## Overview
