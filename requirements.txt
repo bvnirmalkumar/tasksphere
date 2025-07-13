@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+prometheus_client
+python-dotenv
+redis[asyncio]
+pytest
+pytest-cov
